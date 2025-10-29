@@ -1,2 +1,13 @@
-Git notes
-Different summary
+Lab 11 Notes
+
+Git is useful for tracking changes in projects.
+Working with branches helps organize features.
+
+Summary:
+- Clone repositories to work locally
+- Branches allow parallel development
+- Merging combines different work streams
+
+Key Commands:
+git clone, git add, git commit, git push, git pull
+git branch, git merge, git switch
